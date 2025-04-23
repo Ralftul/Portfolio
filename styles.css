@@ -55,6 +55,10 @@ section {
     transform: scale(1.02);
 }
 
+.project-status {
+    font-style: italic;
+}
+
 .contact {
     background-color: var(--card-bg);
     padding: 1rem;
