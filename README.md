@@ -17,7 +17,7 @@ Includes:
 A survival horror game with a PS1-style look, set in a mysterious forest.  
 Gameplay includes:
 - Managing resources for safety  
-- Evading an evolving monster  
+- Evading the antagonist  
 - Exploring places and uncovering lore
 - Escape by collecting needed items
 
